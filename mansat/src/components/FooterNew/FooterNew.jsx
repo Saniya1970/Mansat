@@ -25,15 +25,15 @@ const FooterNew = () => {
           <div className="logo-column">
             <img src={`${logoUrl}`} alt="" className="footer-logo" />
             <p className="footer-text">
-              Touheed Educational Trust (R) is a private charitable and minority
+              Mansat Educational Trust (R) is a private charitable and minority
               educational institution recognized by the Govt. of Karnataka.
             </p>
             <br />
             <div>Gangolli, Udupi District, Karnataka State, India</div>
             <br />
-            <div>info@touheed.education</div>
+            <div>info@.education</div>
             <br />
-            <div>08254-265151, 275251</div>
+            <div>1234566789</div>
             <br />
           </div>
           <div className="quicklinks-column">
@@ -93,7 +93,6 @@ const FooterNew = () => {
               </li>
             </ul>
           </div>
-
         </div>
       </div>
     </FooterNewStyles>
